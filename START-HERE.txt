@@ -1,0 +1,58 @@
+GITHUB PAGES ESSAY STARTER
+===========================
+
+WHAT IS IN THIS FOLDER
+
+index.html
+    A very small temporary home page.
+
+pragmatist-map/index.html
+    The sample essay page. When published, its address will end in:
+    /pragmatist-map/
+
+style.css
+    Controls typography, spacing, widths, and responsive behavior.
+
+images/
+    Two local SVG placeholder images. Replace these later with your own JPG,
+    PNG, WebP, or SVG files.
+
+FIRST UPLOAD
+
+1. Extract this ZIP file on your computer.
+2. Open the extracted folder.
+3. In your GitHub repository, choose Add file > Upload files.
+4. Drag the FOUR ITEMS INSIDE the extracted folder into GitHub:
+       images
+       pragmatist-map
+       index.html
+       style.css
+   Do not upload the ZIP itself.
+5. Scroll down and choose Commit changes.
+
+PUBLISHING
+
+In the repository:
+Settings > Pages
+Source: Deploy from a branch
+Branch: main
+Folder: / (root)
+Save
+
+The repository is best named:
+YOUR-GITHUB-USERNAME.github.io
+
+EDITING LATER
+
+- Replace text inside pragmatist-map/index.html.
+- Replace placeholder images in the images folder.
+- Keep filenames lowercase and use hyphens instead of spaces.
+- Every saved upload or browser edit is called a "commit."
+- The <meta name="robots" content="noindex"> line asks search engines not to
+  index the sample essay. Remove that line when you want the final essay indexed.
+
+IMPORTANT
+
+Everything published with GitHub Pages should be treated as public. Do not add
+private drafts, passwords, personal records, or copyrighted images you do not
+have permission to reproduce.

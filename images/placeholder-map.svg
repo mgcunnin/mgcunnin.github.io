@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="950" viewBox="0 0 1600 950" role="img" aria-labelledby="title desc">
+<title id="title">Historical map placeholder</title>
+<desc id="desc">An abstract beige field with winding blue river forms and labels.</desc>
+<rect width="1600" height="950" fill="#e9e0cb"/>
+<rect x="45" y="45" width="1510" height="860" fill="none" stroke="#746c5d" stroke-width="4"/>
+<text x="800" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="#403d36">PLACEHOLDER MAP IMAGE</text>
+<text x="800" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#696357">Replace this SVG with the principal map image</text>
+<g fill="none" stroke="#466f83" stroke-width="17" stroke-linecap="round">
+  <path d="M220 240 C280 320 200 400 300 485 C390 560 300 690 390 790"/>
+  <path d="M520 210 C430 300 610 365 520 470 C455 550 610 620 545 790"/>
+  <path d="M760 225 C870 310 690 395 805 500 C920 605 770 690 870 800"/>
+  <path d="M1040 215 C940 315 1120 385 1015 500 C925 600 1080 680 1000 800"/>
+  <path d="M1300 245 C1210 340 1390 410 1280 510 C1180 600 1340 690 1250 790"/>
+</g>
+<g font-family="Georgia, serif" font-size="24" fill="#49453d">
+  <text x="170" y="840">River A</text>
+  <text x="460" y="840">River B</text>
+  <text x="755" y="840">River C</text>
+  <text x="970" y="840">River D</text>
+  <text x="1220" y="840">River E</text>
+</g>
+</svg>
